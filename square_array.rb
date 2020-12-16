@@ -1,9 +1,9 @@
 def square_array(array)
   squared_array = []
-  array.each do |element|
+   array.each do |element|
     squared = element * element
     puts squared
     squared_array << squared
   end
-  return square_array
+  return squared_array
 end
