@@ -4,6 +4,6 @@ def square_array(array)
   #    squared = element * element
   #    puts squared
   #    squared_array << squared
-  #  end
-  #  return squared_array
+   end
+   return squared_array
  end
